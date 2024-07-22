@@ -5,12 +5,12 @@ Authors – Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jo
 Summary:
 
 Introduction
-•	In the paper, the authors propose a new network called the Transformer, which is a network that was modelled using only attention mechanisms for sequence transduction problems.
-•	It synthesizes the original encoder-decoder architecture, where the recurrent or convolutional neural networks are used.
+<br> •	In the paper, the authors propose a new network called the Transformer, which is a network that was modelled using only attention mechanisms for sequence transduction problems.
+<br> •	It synthesizes the original encoder-decoder architecture, where the recurrent or convolutional neural networks are used.
 
 1. Background
-•	The paper gives an insight to the ‘Transformer’ which is a new network architecture, designed to handle sequence to sequence transduction tasks. 
-•	It is based solely on attention mechanisms: Model Architecture has a unique focus on legal research, which this paper will attempt to demonstrate by analysing the work of researchers in this field.
+<br> •	The paper gives an insight to the ‘Transformer’ which is a new network architecture, designed to handle sequence to sequence transduction tasks. 
+<br> •	It is based solely on attention mechanisms: Model Architecture has a unique focus on legal research, which this paper will attempt to demonstrate by analysing the work of researchers in this field.
 •	Elaborates on the architecture of the Transformer which has the encoder and decoder stacks, self-attention mechanism, and position-wise feed-forward layers and does not incorporate recurrent and convolutional archetypes. 
 •	The Transformer returns more parallelizable, trains faster and results in better quality in-forward networks.
 
